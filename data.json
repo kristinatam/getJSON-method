@@ -1,0 +1,25 @@
+{
+
+    "administration": [
+
+        {
+            "firstName":"Ona", 
+            "lastName":"Onaite",
+            "age": 26 
+        },
+    
+        {
+            "firstName":"Lina", 
+            "lastName":"Linaite",
+            "age": 29 
+        },
+
+        {
+            "firstName":"Rasa", 
+            "lastName":"Rasaite",
+            "age": 35 
+        }
+    
+    ]
+}
+
